@@ -1,3 +1,3 @@
 # hello-world
-my first github repository
-Got my fancy pants on today!
+This is my first github repository,
+I've surely got my fancy pants on today!
